@@ -1,5 +1,5 @@
 # socket-sphere-java-chat
-# SocketSphere 🚀
+# SocketSphere 
 ### Real-Time Multi-Client TCP Chat Application in Java
 
 SocketSphere is a Java-based real-time chat application built using:
@@ -14,7 +14,7 @@ This project demonstrates how client-server communication works using TCP socket
 
 ---
 
-# Features ✨
+# Features 
 
 ✅ Multi-client chat support  
 ✅ Real-time message broadcasting  
@@ -29,7 +29,7 @@ This project demonstrates how client-server communication works using TCP socket
 
 ---
 
-# Technologies Used 🛠️
+# Technologies Used 
 
 - Java
 - Java Swing
@@ -40,7 +40,7 @@ This project demonstrates how client-server communication works using TCP socket
 
 ---
 
-# How It Works ⚙️
+# How It Works 
 
 ## Server
 The server:
@@ -59,7 +59,7 @@ The client:
 
 ---
 
-# Private Messaging 📩
+# Private Messaging 
 
 To send a private message:
 
@@ -70,12 +70,12 @@ To send a private message:
 Example:
 
 ```text
-@john Hello John!
+@Hussnia Hello Hussnia!
 ```
 
 ---
 
-# Project Structure 📁
+# Project Structure 
 
 ```text
 src/
@@ -86,7 +86,7 @@ src/
 
 ---
 
-# How to Run ▶️
+# How to Run 
 
 ## 1. Start the Server
 
@@ -116,17 +116,17 @@ Enter a username when prompted.
 
 ---
 
-# Example Chat 💬
+# Example Chat 
 
 ```text
 [12:30:15] Alex: Hello everyone!
-[12:30:20] Sara: Hi Alex!
-📩 (Private) [12:30:25] John: Secret message
+[12:30:20] Sara: Hi Hussnia!
+📩(Private) [12:30:25] Selam: Secret message
 ```
 
 ---
 
-# Concepts Demonstrated 📚
+# Concepts Demonstrated 
 
 This project demonstrates:
 
@@ -156,8 +156,3 @@ This project demonstrates:
 
 Hussnia Mohammed
 
----
-
-# License 📄
-
-This project is open-source and free to use for educational purposes.
